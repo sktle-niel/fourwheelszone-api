@@ -1,0 +1,10 @@
+# Secrets — never commit
+.env
+
+# Logs / OS cruft
+*.log
+.DS_Store
+Thumbs.db
+
+# If you ever add Composer
+/vendor/
